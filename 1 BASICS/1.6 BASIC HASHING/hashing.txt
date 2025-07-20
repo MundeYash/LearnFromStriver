@@ -1,0 +1,6 @@
+// range of declaration of size of array 
+// it can go upto 1e6 size if declared inside the main for integer type array
+// it can go upto 1e7 size if declared globally 
+// it can go upto 1e7 if declared inside the main for boolean type array 
+// it can go upto 1e8 if declared globally for boolean type array 
+orderd map stores all the values in  sorted order 
